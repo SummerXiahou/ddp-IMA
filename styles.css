@@ -16,9 +16,10 @@ header{
 }
 
 header h1{
-	color: #534340;
-	font-size: 100px;
+	color: black;
+	font-size: 70px;
 	font-family: 'Josefin Sans', sans-serif;
+	border: 10px solid white;
 }
 
 header img{
@@ -68,6 +69,7 @@ main img{
 main h2{
 	font-size: 30px;
 	margin: 40px 0 10px;
+	color: #1572A1;
 }
 
 main a{
