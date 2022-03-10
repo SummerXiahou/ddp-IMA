@@ -43,11 +43,12 @@ menu ul{
 menu ul li{
 	float: left;
 	margin-right: 10 px;
+
 }
 
 menu li a{
-	list-style: square inside url(images/cat.jpg);
-	/*color: black;*/
+	text-text-decoration: none;
+	color: black;
 }
 
 /*Main section*/
